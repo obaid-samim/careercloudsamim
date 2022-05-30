@@ -1,0 +1,14 @@
+C:\Users\Administrator\Downloads\CareerCloud-master1\CareerCloud.DataAccessLayer\bin\Debug\netcoreapp3.0\CareerCloud.DataAccessLayer.exe
+C:\Users\Administrator\Downloads\CareerCloud-master1\CareerCloud.DataAccessLayer\bin\Debug\netcoreapp3.0\CareerCloud.DataAccessLayer.deps.json
+C:\Users\Administrator\Downloads\CareerCloud-master1\CareerCloud.DataAccessLayer\bin\Debug\netcoreapp3.0\CareerCloud.DataAccessLayer.runtimeconfig.json
+C:\Users\Administrator\Downloads\CareerCloud-master1\CareerCloud.DataAccessLayer\bin\Debug\netcoreapp3.0\CareerCloud.DataAccessLayer.runtimeconfig.dev.json
+C:\Users\Administrator\Downloads\CareerCloud-master1\CareerCloud.DataAccessLayer\bin\Debug\netcoreapp3.0\CareerCloud.DataAccessLayer.dll
+C:\Users\Administrator\Downloads\CareerCloud-master1\CareerCloud.DataAccessLayer\bin\Debug\netcoreapp3.0\CareerCloud.DataAccessLayer.pdb
+C:\Users\Administrator\Downloads\CareerCloud-master1\CareerCloud.DataAccessLayer\obj\Debug\netcoreapp3.0\CareerCloud.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\CareerCloud-master1\CareerCloud.DataAccessLayer\obj\Debug\netcoreapp3.0\CareerCloud.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\CareerCloud-master1\CareerCloud.DataAccessLayer\obj\Debug\netcoreapp3.0\CareerCloud.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\CareerCloud-master1\CareerCloud.DataAccessLayer\obj\Debug\netcoreapp3.0\CareerCloud.DataAccessLayer.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\CareerCloud-master1\CareerCloud.DataAccessLayer\obj\Debug\netcoreapp3.0\CareerCloud.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\CareerCloud-master1\CareerCloud.DataAccessLayer\obj\Debug\netcoreapp3.0\CareerCloud.DataAccessLayer.dll
+C:\Users\Administrator\Downloads\CareerCloud-master1\CareerCloud.DataAccessLayer\obj\Debug\netcoreapp3.0\CareerCloud.DataAccessLayer.pdb
+C:\Users\Administrator\Downloads\CareerCloud-master1\CareerCloud.DataAccessLayer\obj\Debug\netcoreapp3.0\CareerCloud.DataAccessLayer.genruntimeconfig.cache
