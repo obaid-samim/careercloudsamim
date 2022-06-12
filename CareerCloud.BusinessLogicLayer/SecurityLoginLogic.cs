@@ -8,7 +8,7 @@ using System.Collections.Generic;
 using System.Text.RegularExpressions;
 
 namespace CareerCloud.BusinessLogicLayer
-{
+{ 
     public class SecurityLoginLogic : BaseLogic<SecurityLoginPoco>
     {
         private const int saltLengthLimit = 10;

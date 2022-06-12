@@ -1,0 +1,4 @@
+obj\Debug\net6.0/ApplicantJobApplication.cs \
+obj\Debug\net6.0/ApplicantJobApplicationGrpc.cs: C:/Users/Administrator/.nuget/packages/grpc.tools/2.27.0/build/native/include/google/protobuf/empty.proto\
+ C:/Users/Administrator/.nuget/packages/grpc.tools/2.27.0/build/native/include/google/protobuf/timestamp.proto\
+ Protos/ApplicantJobApplication.proto

@@ -8,7 +8,7 @@ namespace CareerCloud.Pocos
 {
     [Table("Security_Logins")]
     public class SecurityLoginPoco : IPoco
-    {
+    { 
         [Key]
         public Guid Id { get; set; }
         public String Login { get; set; }

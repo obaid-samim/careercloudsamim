@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cP8r6e7Aq58H7XOnkkWyCiKO8BsVbhAg3mb9ZDnlUTV9YZAjgmr9Fhqr/9KT2V1qz0kuQIFyeZPnRSFWWyfpLg==",
+  "dgSpecHash": "ZWSdUNxWiX66cdU+pYomeXvbefWoUGvnojI0LbV8K2sWgawQecmD9SCsnjaDDdmcc+nnGecGOC8Nyerp/d+YcA==",
   "success": true,
-  "projectFilePath": "E:\\CareerCloud - Copy\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj",
+  "projectFilePath": "C:\\Users\\Administrator\\Downloads\\NET.22-3-Obaidullah-Samim-n01559232\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",

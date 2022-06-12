@@ -8,7 +8,7 @@ namespace CareerCloud.Pocos
 {
     [Table("Security_Logins_Log")]
     public class SecurityLoginsLogPoco : IPoco
-    {
+    { 
         [Key]
         public Guid Id { get; set; }
         [ForeignKey("FK_Security_Logins_Log_Security_Logins")]

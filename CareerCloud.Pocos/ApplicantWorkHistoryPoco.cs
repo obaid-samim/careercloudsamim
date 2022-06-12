@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Text;
-
+ 
 namespace CareerCloud.Pocos
 {
     [Table("Applicant_Work_History")]

@@ -985,11 +985,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\CareerCloud - Copy\\CareerCloud.ADODataAccessLayer\\CareerCloud.ADODataAccessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Downloads\\NET.22-3-Obaidullah-Samim-n01559232\\CareerCloud\\CareerCloud.ADODataAccessLayer\\CareerCloud.ADODataAccessLayer.csproj",
       "projectName": "CareerCloud.ADODataAccessLayer",
-      "projectPath": "E:\\CareerCloud - Copy\\CareerCloud.ADODataAccessLayer\\CareerCloud.ADODataAccessLayer.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Downloads\\NET.22-3-Obaidullah-Samim-n01559232\\CareerCloud\\CareerCloud.ADODataAccessLayer\\CareerCloud.ADODataAccessLayer.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "E:\\CareerCloud - Copy\\CareerCloud.ADODataAccessLayer\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Downloads\\NET.22-3-Obaidullah-Samim-n01559232\\CareerCloud\\CareerCloud.ADODataAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1010,11 +1010,11 @@
         "netcoreapp3.0": {
           "targetAlias": "netcoreapp3.0",
           "projectReferences": {
-            "E:\\CareerCloud - Copy\\CareerCloud.DataAccessLayer\\CareerCloud.DataAccessLayer.csproj": {
-              "projectPath": "E:\\CareerCloud - Copy\\CareerCloud.DataAccessLayer\\CareerCloud.DataAccessLayer.csproj"
+            "C:\\Users\\Administrator\\Downloads\\NET.22-3-Obaidullah-Samim-n01559232\\CareerCloud\\CareerCloud.DataAccessLayer\\CareerCloud.DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\Administrator\\Downloads\\NET.22-3-Obaidullah-Samim-n01559232\\CareerCloud\\CareerCloud.DataAccessLayer\\CareerCloud.DataAccessLayer.csproj"
             },
-            "E:\\CareerCloud - Copy\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj": {
-              "projectPath": "E:\\CareerCloud - Copy\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj"
+            "C:\\Users\\Administrator\\Downloads\\NET.22-3-Obaidullah-Samim-n01559232\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj": {
+              "projectPath": "C:\\Users\\Administrator\\Downloads\\NET.22-3-Obaidullah-Samim-n01559232\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj"
             }
           }
         }

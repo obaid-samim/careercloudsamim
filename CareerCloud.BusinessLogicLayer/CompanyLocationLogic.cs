@@ -7,7 +7,7 @@ using System.Text;
 namespace CareerCloud.BusinessLogicLayer
 {
     public class CompanyLocationLogic : BaseLogic<CompanyLocationPoco>
-    {
+    { 
         public CompanyLocationLogic(IDataRepository<CompanyLocationPoco> repository) : base(repository)
         { }
 

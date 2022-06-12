@@ -3,7 +3,7 @@ using CareerCloud.Pocos;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-
+ 
 namespace CareerCloud.BusinessLogicLayer
 {
 	public abstract class BaseLogic<TPoco> where TPoco : IPoco

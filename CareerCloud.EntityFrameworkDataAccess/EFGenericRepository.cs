@@ -7,7 +7,7 @@ using System.Linq.Expressions;
 using System.Text;
 
 namespace CareerCloud.EntityFrameworkDataAccess
-{
+{ 
     public class EFGenericRepository<T> : IDataRepository<T> where T : class
     {
         private CareerCloudContext _context;

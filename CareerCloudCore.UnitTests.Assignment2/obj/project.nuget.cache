@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mYYsylZjdzjkKxu7Rv6NSvoCMdguJ5i5MDdpq9JQ4yIFcwRG4GXUCnr5/cWsKhNrKc3RvlBkJiAyhuRwlBGOjQ==",
+  "dgSpecHash": "umufNbo9MQdMvHDfMEKF/66CTos/zoXDDHGol/84QFccZ5oB5dwMGVEZff9fXMV+RVXXtEOf8HPMS3kITNpYVQ==",
   "success": true,
-  "projectFilePath": "E:\\CareerCloud - Copy\\CareerCloudCore.UnitTests.Assignment2\\CareerCloudCore.UnitTests.Assignment2.csproj",
+  "projectFilePath": "C:\\Users\\Administrator\\Downloads\\NET.22-3-Obaidullah-Samim-n01559232\\CareerCloud\\CareerCloudCore.UnitTests.Assignment2\\CareerCloudCore.UnitTests.Assignment2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\coverlet.collector\\1.1.0\\coverlet.collector.1.1.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\faker.data.core\\1.0.0\\faker.data.core.1.0.0.nupkg.sha512",

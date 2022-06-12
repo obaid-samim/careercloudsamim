@@ -6444,11 +6444,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\CareerCloud - Copy\\CareerCloudCore.UnitTests.Assignment2\\CareerCloudCore.UnitTests.Assignment2.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Downloads\\NET.22-3-Obaidullah-Samim-n01559232\\CareerCloud\\CareerCloudCore.UnitTests.Assignment2\\CareerCloudCore.UnitTests.Assignment2.csproj",
       "projectName": "CareerCloudCore.UnitTests.Assignment2",
-      "projectPath": "E:\\CareerCloud - Copy\\CareerCloudCore.UnitTests.Assignment2\\CareerCloudCore.UnitTests.Assignment2.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Downloads\\NET.22-3-Obaidullah-Samim-n01559232\\CareerCloud\\CareerCloudCore.UnitTests.Assignment2\\CareerCloudCore.UnitTests.Assignment2.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "E:\\CareerCloud - Copy\\CareerCloudCore.UnitTests.Assignment2\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Downloads\\NET.22-3-Obaidullah-Samim-n01559232\\CareerCloud\\CareerCloudCore.UnitTests.Assignment2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6469,14 +6469,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\CareerCloud - Copy\\CareerCloud.ADODataAccessLayer\\CareerCloud.ADODataAccessLayer.csproj": {
-              "projectPath": "E:\\CareerCloud - Copy\\CareerCloud.ADODataAccessLayer\\CareerCloud.ADODataAccessLayer.csproj"
+            "C:\\Users\\Administrator\\Downloads\\NET.22-3-Obaidullah-Samim-n01559232\\CareerCloud\\CareerCloud.ADODataAccessLayer\\CareerCloud.ADODataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\Administrator\\Downloads\\NET.22-3-Obaidullah-Samim-n01559232\\CareerCloud\\CareerCloud.ADODataAccessLayer\\CareerCloud.ADODataAccessLayer.csproj"
             },
-            "E:\\CareerCloud - Copy\\CareerCloud.DataAccessLayer\\CareerCloud.DataAccessLayer.csproj": {
-              "projectPath": "E:\\CareerCloud - Copy\\CareerCloud.DataAccessLayer\\CareerCloud.DataAccessLayer.csproj"
+            "C:\\Users\\Administrator\\Downloads\\NET.22-3-Obaidullah-Samim-n01559232\\CareerCloud\\CareerCloud.DataAccessLayer\\CareerCloud.DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\Administrator\\Downloads\\NET.22-3-Obaidullah-Samim-n01559232\\CareerCloud\\CareerCloud.DataAccessLayer\\CareerCloud.DataAccessLayer.csproj"
             },
-            "E:\\CareerCloud - Copy\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj": {
-              "projectPath": "E:\\CareerCloud - Copy\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj"
+            "C:\\Users\\Administrator\\Downloads\\NET.22-3-Obaidullah-Samim-n01559232\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj": {
+              "projectPath": "C:\\Users\\Administrator\\Downloads\\NET.22-3-Obaidullah-Samim-n01559232\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj"
             }
           }
         }

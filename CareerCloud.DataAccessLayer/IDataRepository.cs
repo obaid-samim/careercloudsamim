@@ -6,7 +6,7 @@ using System.Text;
 namespace CareerCloud.DataAccessLayer
 {
     public interface IDataRepository<T>
-    {
+    { 
         IList<T> GetAll(params Expression<Func<T, object>>[] navigationProperties);
         IList<T> GetList(Expression<Func<T, bool>> where, params Expression<Func<T, object>>[] navigationProperties);
         T GetSingle(Expression<Func<T, bool>> where, params Expression<Func<T, object>>[] navigationProperties);

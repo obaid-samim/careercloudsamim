@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Text;
 
 namespace CareerCloud.Pocos
-{
+{ 
     [Table("Applicant_Educations")]
     public class ApplicantEducationPoco : IPoco
     {

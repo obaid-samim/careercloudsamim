@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\CareerCloud - Copy\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Downloads\\NET.22-3-Obaidullah-Samim-n01559232\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj",
       "projectName": "CareerCloud.Pocos",
-      "projectPath": "E:\\CareerCloud - Copy\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Downloads\\NET.22-3-Obaidullah-Samim-n01559232\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "E:\\CareerCloud - Copy\\CareerCloud.Pocos\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Downloads\\NET.22-3-Obaidullah-Samim-n01559232\\CareerCloud\\CareerCloud.Pocos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

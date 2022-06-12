@@ -7,7 +7,7 @@ using System.Reflection;
 namespace CareerCloudCore.UnitTests.Assignment1
 {
     [TestCategory("Assignment 1 Poco Tests")]
-    [TestClass]
+    [TestClass] 
     public class Assignment1Marking
     {
         private const string _assemblyUnderTest = "CareerCloud.Pocos.dll";

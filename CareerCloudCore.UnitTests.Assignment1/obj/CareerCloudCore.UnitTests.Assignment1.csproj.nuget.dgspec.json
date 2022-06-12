@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\CareerCloud - Copy\\CareerCloudCore.UnitTests.Assignment1\\CareerCloudCore.UnitTests.Assignment1.csproj": {}
+    "C:\\Users\\Administrator\\Downloads\\NET.22-3-Obaidullah-Samim-n01559232\\CareerCloud\\CareerCloudCore.UnitTests.Assignment1\\CareerCloudCore.UnitTests.Assignment1.csproj": {}
   },
   "projects": {
-    "E:\\CareerCloud - Copy\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj": {
+    "C:\\Users\\Administrator\\Downloads\\NET.22-3-Obaidullah-Samim-n01559232\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CareerCloud - Copy\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Downloads\\NET.22-3-Obaidullah-Samim-n01559232\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj",
         "projectName": "CareerCloud.Pocos",
-        "projectPath": "E:\\CareerCloud - Copy\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Downloads\\NET.22-3-Obaidullah-Samim-n01559232\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\CareerCloud - Copy\\CareerCloud.Pocos\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Downloads\\NET.22-3-Obaidullah-Samim-n01559232\\CareerCloud\\CareerCloud.Pocos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -76,14 +76,14 @@
         }
       }
     },
-    "E:\\CareerCloud - Copy\\CareerCloudCore.UnitTests.Assignment1\\CareerCloudCore.UnitTests.Assignment1.csproj": {
+    "C:\\Users\\Administrator\\Downloads\\NET.22-3-Obaidullah-Samim-n01559232\\CareerCloud\\CareerCloudCore.UnitTests.Assignment1\\CareerCloudCore.UnitTests.Assignment1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CareerCloud - Copy\\CareerCloudCore.UnitTests.Assignment1\\CareerCloudCore.UnitTests.Assignment1.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Downloads\\NET.22-3-Obaidullah-Samim-n01559232\\CareerCloud\\CareerCloudCore.UnitTests.Assignment1\\CareerCloudCore.UnitTests.Assignment1.csproj",
         "projectName": "CareerCloudCore.UnitTests.Assignment1",
-        "projectPath": "E:\\CareerCloud - Copy\\CareerCloudCore.UnitTests.Assignment1\\CareerCloudCore.UnitTests.Assignment1.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Downloads\\NET.22-3-Obaidullah-Samim-n01559232\\CareerCloud\\CareerCloudCore.UnitTests.Assignment1\\CareerCloudCore.UnitTests.Assignment1.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\CareerCloud - Copy\\CareerCloudCore.UnitTests.Assignment1\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Downloads\\NET.22-3-Obaidullah-Samim-n01559232\\CareerCloud\\CareerCloudCore.UnitTests.Assignment1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -104,8 +104,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\CareerCloud - Copy\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj": {
-                "projectPath": "E:\\CareerCloud - Copy\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj"
+              "C:\\Users\\Administrator\\Downloads\\NET.22-3-Obaidullah-Samim-n01559232\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj": {
+                "projectPath": "C:\\Users\\Administrator\\Downloads\\NET.22-3-Obaidullah-Samim-n01559232\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj"
               }
             }
           }

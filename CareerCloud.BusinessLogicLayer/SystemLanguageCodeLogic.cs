@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 
 namespace CareerCloud.BusinessLogicLayer
-{
+{ 
 	public class SystemLanguageCodeLogic
 	{
 		protected IDataRepository<SystemLanguageCodePoco> _repository;

@@ -8,7 +8,7 @@ namespace CareerCloud.Pocos
 {
     [Table("Company_Locations")]
     public class CompanyLocationPoco : IPoco
-    {
+    { 
         [Key]
         public Guid Id { get; set; }
         [ForeignKey("FK_Company_Locations_Company_Profiles")]

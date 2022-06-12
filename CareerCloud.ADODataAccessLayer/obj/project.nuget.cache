@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SU+9Sh0TMEpd3GX5S5+4Mwxq818qjQ9Y92/JyHoF+MCvKwNUzNZq5wzxE47Xu2sDjGTlFT6HtaRMEJw4Wj3WRw==",
+  "dgSpecHash": "IrclHUCBWOnsa5+rJNFDYEcs8vZEpU+xomAaoYEzvFLo9cay1RcFfHES//G0Lfh0uyJ12xCx5+FKVxFxuyhsPw==",
   "success": true,
-  "projectFilePath": "E:\\CareerCloud - Copy\\CareerCloud.ADODataAccessLayer\\CareerCloud.ADODataAccessLayer.csproj",
+  "projectFilePath": "C:\\Users\\Administrator\\Downloads\\NET.22-3-Obaidullah-Samim-n01559232\\CareerCloud\\CareerCloud.ADODataAccessLayer\\CareerCloud.ADODataAccessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.0\\microsoft.extensions.configuration.3.1.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.0\\microsoft.extensions.configuration.abstractions.3.1.0.nupkg.sha512",
